@@ -30,7 +30,7 @@ To run this project, ensure you have Python installed on your system. Follow the
 
 1. **Clone the repository** (if applicable):
    ```bash
-   git clone https://github.com/hritikranjan1/PRODIGY_ML_02 .git
+   git clone https://github.com/hritikranjan1/customer-segmentation.git
    cd customer-segmentation
 2.Install the necessary libraries using pip:
 
