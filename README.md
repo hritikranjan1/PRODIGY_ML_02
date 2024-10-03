@@ -95,7 +95,7 @@ makefile
     LinkedIn: https://www.linkedin.com/in/hritik-ranjan-05a835230/
  ##  Contact
 
-        Name: Hritik ranjan
+    Name: Hritik ranjan
     GitHub: https://github.com/hritikranjan1
     LinkedIn: https://www.linkedin.com/in/hritik-ranjan-05a835230/
 
